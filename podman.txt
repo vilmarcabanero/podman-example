@@ -1,0 +1,6 @@
+podman build -t app-image .
+podman run -d --name app-container -p 3000:3000 app-image
+
+to check the images and containers
+podman images
+podman ps -a

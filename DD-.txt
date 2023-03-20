@@ -1,0 +1,19 @@
+- Table that compares docker and podman commands
+- List of other alternatives
+- Explain each alternative how they work, their advantages and disadvantages. 
+
+Pros of Podman as docker alternative
+- Open source (It means no license required)
+- Similar to docker cli commands
+- It has a GUI that is very similar to Docker. 
+
+Check if other alternatives are open source / free, if not, they are already not feasible. If yes, compare them with Podman
+
+Open source
+- Podman
+- OpenVZ
+- 
+
+There are several alternatives for docker but some of them requires a license similar to docker so I chose not to include them. 
+
+So to simplify the choices I only included the open source one
